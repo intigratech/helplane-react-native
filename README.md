@@ -163,7 +163,6 @@ import type { HelpLaneUser, HelpLaneConfig } from '@helplane/react-native';
 
 ## Support
 
-- Documentation: [docs.helplane.io](https://docs.helplane.io)
 - Issues: [GitHub Issues](https://github.com/intigratech/helplane-react-native/issues)
 
 ## License
