@@ -10,9 +10,9 @@ Add live chat support to your React Native app with the HelpLane SDK.
 ## Installation
 
 ```bash
-npm install github:intigratech/helplane-react-native react-native-webview
+npm install @helplane/react-native react-native-webview
 # or
-yarn add github:intigratech/helplane-react-native react-native-webview
+yarn add @helplane/react-native react-native-webview
 ```
 
 ### iOS Setup

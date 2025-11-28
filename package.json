@@ -31,14 +31,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helplane/helplane-react-native.git"
+    "url": "git+https://github.com/intigratech/helplane-react-native.git"
   },
   "author": "HelpLane",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/helplane/helplane-react-native/issues"
+    "url": "https://github.com/intigratech/helplane-react-native/issues"
   },
-  "homepage": "https://github.com/helplane/helplane-react-native#readme",
+  "homepage": "https://github.com/intigratech/helplane-react-native#readme",
   "publishConfig": {
     "access": "public"
   },
